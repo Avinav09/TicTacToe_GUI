@@ -1,0 +1,6 @@
+from tkinter import *
+root=Tk()
+var_1=IntVar()
+e1=Entry(root,font="Monotype Corsiva",textvariable=var_1)
+
+root.mainloop()
